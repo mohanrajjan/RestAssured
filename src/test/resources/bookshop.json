@@ -1,0 +1,30 @@
+{
+   "store":{
+   "book":[
+   {
+   "category": "reference",
+   "author": "Nigel rees",
+   "title": "sayings of the century",
+   "price": 8.95
+   },
+   {
+   "category": "fiction",
+   "author": "evelyn waugh",
+   "title": "sword of honour",
+   "price": 12.55
+   },
+   {
+   "category": "fiction",
+   "author": "j. r. r. Tolkien",
+   "title": "lord of the rings",
+   "isbn": "0-395-19395-8",
+   "price": 22.99
+   }
+   ],
+   "bicycle":{
+   "color":"red",
+   "price":19.95
+      }
+   },
+   "expensive":10
+}

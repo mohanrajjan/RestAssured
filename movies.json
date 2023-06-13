@@ -1,0 +1,25 @@
+{
+  "category" : "Super Hero Mivies & TV Series",
+  "acceptedfranchises" : [ "DC", "Maver" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark" ],
+  "movies" : [ {
+    "title" : "Batman: The Dark Knight",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Justice League:SYC",
+    "year" : 2021,
+    "cast" : [ "Henry Cavil", "Gal Gadot" ]
+  } ],
+  "tvseries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "EthirNeechal",
+    "year" : 2021
+  } ],
+  "otherdetails" : {
+    "country" : "USA Engaluku",
+    "language" : "ENGLISH THADA"
+  }
+}
